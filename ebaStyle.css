@@ -1,0 +1,18 @@
+/*This CSS file is used to style the JS TV*/
+
+.allEntries {
+	margin-bottom: 3%;
+	text-align: center;
+}
+
+html {
+	text-align: center;
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body {
+	padding-top: 10%;
+	font-family: arial;
+}
